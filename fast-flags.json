@@ -79,5 +79,7 @@
   "FFlagDebugGraphicsDisableOpenGL": "True",
   "DFIntGraphicsOptimizationModeFRMFrameRateTarget": "60",
   "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": "16",
-  "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "50"
+  "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "50",
+  "FFlagD3D11SupportBGRA": "true",
+  "FFlagDebugEnableDirectAudioOcclusion2": "True"
 }
