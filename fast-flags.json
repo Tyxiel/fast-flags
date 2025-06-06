@@ -84,5 +84,11 @@
   "FFlagDebugEnableDirectAudioOcclusion2": "True",
   "FFlagDebugCheckRenderThreading": "true",
   "FFlagRenderDebugCheckThreading2": "true",
-  "DFIntRuntimeConcurrency": "1"
+  "DFIntRuntimeConcurrency": "1",
+  "FFlagDebugForceGenerateHSR": "true",
+  "FFlagHSRClusterImprovement": "true",
+  "FFlagHSRRemoveDuplicateindices": "true",
+  "FFlagDecodeHSROnLCThread": "true",
+  "FFlagDeocdeHSROnLCThread": "true",
+  "FFlagLuaAppLegacyInputSettingRefactor": "true"
 }
