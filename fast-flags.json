@@ -83,5 +83,6 @@
   "FFlagD3D11SupportBGRA": "true",
   "FFlagDebugEnableDirectAudioOcclusion2": "True",
   "FFlagDebugCheckRenderThreading": "true",
-  "FFlagRenderDebugCheckThreading2": "true"
+  "FFlagRenderDebugCheckThreading2": "true",
+  "DFIntRuntimeConcurrency": "1"
 }
