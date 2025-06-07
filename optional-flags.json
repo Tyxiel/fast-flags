@@ -4,6 +4,7 @@
     "FIntRenderGrassDetailStrands": "0",
     "FIntGrassMovementReducedMotionFactor": "0",
     "FIntRenderShadowIntensity": "0",
+    "FFlagDebugEnableDirectAudioOcclusion2": "True",
     "FFlagDisablePostFx": "true",
     "FIntDebugForceMSAASamples": "1",
     "DFIntDebugFRMQualityLevelOverride": "1",
